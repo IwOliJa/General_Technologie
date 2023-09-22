@@ -116,8 +116,7 @@
       where location_id = 1700;
       
       
-     -- ///////// Home Work II //////////  --
-      
+
 
       
  
